@@ -1,0 +1,104 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* AllTests.txt
+* BATfiles-Readme.txt
+* CVS/
+* CVS/Entries
+* CVS/Repository
+* CVS/Root
+* Compile.bat
+* RunUnitTests.bat
+* SetClasspath.bat
+* ic_launcher-web.png
+* lib/
+* lib/CVS/
+* lib/CVS/Entries
+* lib/CVS/Repository
+* lib/CVS/Root
+* lib/junit.jar
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:22.2.1
+android-support-v4.jar => com.android.support:support-v4:22.2.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* /Users/nequit/Dropbox/projects/apps/Android/SRSYS/libs/android-support-v4.jar => app/libs/android-support-v4.jar
+* /Users/nequit/Dropbox/projects/apps/Android/SRSYS/res/ => app/src/androidTest/res/
+* /Users/nequit/Dropbox/projects/apps/Android/SRSYS/src/ => app/src/androidTest/java/
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/.DS_Store => app/src/main/resources/.DS_Store
+* src/CVS/Entries => app/src/main/resources/CVS/Entries
+* src/CVS/Repository => app/src/main/resources/CVS/Repository
+* src/CVS/Root => app/src/main/resources/CVS/Root
+* src/comp3350/.DS_Store => app/src/main/resources/comp3350/.DS_Store
+* src/comp3350/CVS/Entries => app/src/main/resources/comp3350/CVS/Entries
+* src/comp3350/CVS/Repository => app/src/main/resources/comp3350/CVS/Repository
+* src/comp3350/CVS/Root => app/src/main/resources/comp3350/CVS/Root
+* src/comp3350/srsys/.DS_Store => app/src/main/resources/comp3350/srsys/.DS_Store
+* src/comp3350/srsys/CVS/Entries => app/src/main/resources/comp3350/srsys/CVS/Entries
+* src/comp3350/srsys/CVS/Repository => app/src/main/resources/comp3350/srsys/CVS/Repository
+* src/comp3350/srsys/CVS/Root => app/src/main/resources/comp3350/srsys/CVS/Root
+* src/comp3350/srsys/application/CVS/Entries => app/src/main/resources/comp3350/srsys/application/CVS/Entries
+* src/comp3350/srsys/application/CVS/Repository => app/src/main/resources/comp3350/srsys/application/CVS/Repository
+* src/comp3350/srsys/application/CVS/Root => app/src/main/resources/comp3350/srsys/application/CVS/Root
+* src/comp3350/srsys/business/CVS/Entries => app/src/main/resources/comp3350/srsys/business/CVS/Entries
+* src/comp3350/srsys/business/CVS/Repository => app/src/main/resources/comp3350/srsys/business/CVS/Repository
+* src/comp3350/srsys/business/CVS/Root => app/src/main/resources/comp3350/srsys/business/CVS/Root
+* src/comp3350/srsys/objects/CVS/Entries => app/src/main/resources/comp3350/srsys/objects/CVS/Entries
+* src/comp3350/srsys/objects/CVS/Repository => app/src/main/resources/comp3350/srsys/objects/CVS/Repository
+* src/comp3350/srsys/objects/CVS/Root => app/src/main/resources/comp3350/srsys/objects/CVS/Root
+* src/comp3350/srsys/persistence/CVS/Entries => app/src/main/resources/comp3350/srsys/persistence/CVS/Entries
+* src/comp3350/srsys/persistence/CVS/Repository => app/src/main/resources/comp3350/srsys/persistence/CVS/Repository
+* src/comp3350/srsys/persistence/CVS/Root => app/src/main/resources/comp3350/srsys/persistence/CVS/Root
+* src/comp3350/srsys/presentation/.DS_Store => app/src/main/resources/comp3350/srsys/presentation/.DS_Store
+* src/comp3350/srsys/presentation/CVS/Entries => app/src/main/resources/comp3350/srsys/presentation/CVS/Entries
+* src/comp3350/srsys/presentation/CVS/Repository => app/src/main/resources/comp3350/srsys/presentation/CVS/Repository
+* src/comp3350/srsys/presentation/CVS/Root => app/src/main/resources/comp3350/srsys/presentation/CVS/Root
+* src/comp3350/tests/CVS/Entries => app/src/main/resources/comp3350/tests/CVS/Entries
+* src/comp3350/tests/CVS/Repository => app/src/main/resources/comp3350/tests/CVS/Repository
+* src/comp3350/tests/CVS/Root => app/src/main/resources/comp3350/tests/CVS/Root
+* src/comp3350/tests/business/CVS/Entries => app/src/main/resources/comp3350/tests/business/CVS/Entries
+* src/comp3350/tests/business/CVS/Repository => app/src/main/resources/comp3350/tests/business/CVS/Repository
+* src/comp3350/tests/business/CVS/Root => app/src/main/resources/comp3350/tests/business/CVS/Root
+* src/comp3350/tests/objects/CVS/Entries => app/src/main/resources/comp3350/tests/objects/CVS/Entries
+* src/comp3350/tests/objects/CVS/Repository => app/src/main/resources/comp3350/tests/objects/CVS/Repository
+* src/comp3350/tests/objects/CVS/Root => app/src/main/resources/comp3350/tests/objects/CVS/Root
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

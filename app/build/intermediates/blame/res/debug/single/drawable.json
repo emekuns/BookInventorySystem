@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/drawable/mortarboard.png",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/drawable/mortarboard.png"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/drawable/writer.png",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/drawable/writer.png"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/drawable/student.png",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/drawable/student.png"
+    }
+]

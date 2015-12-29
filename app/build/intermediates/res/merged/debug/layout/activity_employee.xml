@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="comp3350.srsys.EmployeeActivity" >
+
+    <TextView
+        android:id="@+id/studentPromptTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="85dp"
+        android:text="@string/professor_prompt"
+        android:textSize="0.25in" />
+
+    <Button
+        android:id="@+id/updateInventoryButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/studentPromptTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:text="@string/update_inventory_button" />
+
+    <Button
+        android:id="@+id/orderFromPublisherButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/updateInventoryButton"
+        android:layout_below="@+id/updateInventoryButton"
+        android:layout_marginTop="51dp"
+        android:text="@string/order_from_publisher_button" />
+
+    <Button
+        android:id="@+id/checkOrderStatusButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/orderFromPublisherButton"
+        android:layout_below="@+id/orderFromPublisherButton"
+        android:layout_marginTop="51dp"
+        android:text="@string/check_orders_status_button" />
+
+    <Button
+        android:id="@+id/checkMessageButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/checkOrderStatusButton"
+        android:layout_below="@+id/checkOrderStatusButton"
+        android:layout_marginTop="51dp"
+        android:text="@string/check_message_button" />
+
+</RelativeLayout>

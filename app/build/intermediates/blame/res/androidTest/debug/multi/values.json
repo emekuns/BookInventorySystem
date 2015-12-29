@@ -1,0 +1,467 @@
+[
+    {
+        "outputFile": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 52,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 43,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 43,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 42,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 47,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 47,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 43,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 43,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 41,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 41,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 41,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 766,
+                        "endColumn": 41,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endColumn": 50,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 50,
+                        "endOffset": 1070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 35,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 988,
+                        "endColumn": 35,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 37,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 852,
+                        "endColumn": 37,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 55,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 55,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 49,
+                    "endOffset": 711
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 49,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 716,
+                    "endColumn": 73,
+                    "endOffset": 785
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 73,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 790,
+                    "endColumn": 45,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 45,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endColumn": 86,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endColumn": 86,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 65,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 65,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 88,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 88,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endColumn": 67,
+                    "endOffset": 1141
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 67,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1146,
+                    "endColumn": 41,
+                    "endOffset": 1183
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 41,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1188,
+                    "endColumn": 43,
+                    "endOffset": 1227
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endColumn": 43,
+                        "endOffset": 1114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1232,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1518
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1523,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1678
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/androidTest/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

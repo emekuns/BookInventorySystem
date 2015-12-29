@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="comp3350.srsys.UpdateInventoryActivity" >
+
+    <ListView
+        android:id="@+id/updateInventoryListView"
+        android:layout_width="match_parent"
+        android:layout_height="1.25in"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" >
+    </ListView>
+
+    <EditText
+        android:id="@+id/emAuthorTextField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emBookNameTextField"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="@string/author_text_field" />
+
+    <EditText
+        android:id="@+id/emCourseTextField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emAuthorTextField"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="@string/book_course_text_field" />
+
+    <EditText
+        android:id="@+id/emCategoryTextField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emCourseTextField"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="@string/book_category_text_field" />
+
+    <EditText
+        android:id="@+id/emQuantityTextField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emCategoryTextField"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="@string/quantity_text_field" />
+
+    <EditText
+        android:id="@+id/emBookNameTextField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/updateInventoryListView"
+        android:layout_below="@+id/updateInventoryListView"
+        android:ems="10"
+        android:hint="@string/book_name_text_field" />
+
+    <Button
+        android:id="@+id/emAddButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/emQuantityTextField"
+        android:layout_below="@+id/emQuantityTextField"
+        android:text="@string/add_book_button" />
+
+    <Button
+        android:id="@+id/emUpdateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/emAddButton"
+        android:layout_centerHorizontal="true"
+        android:text="@string/update_button" />
+
+    <Button
+        android:id="@+id/emDeleteButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/emQuantityTextField"
+        android:layout_alignTop="@+id/emUpdateButton"
+        android:text="@string/delete_button" />
+
+</RelativeLayout>

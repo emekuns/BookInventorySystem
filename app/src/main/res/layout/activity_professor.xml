@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="comp3350.srsys.ProfessorActivity" >
+
+    <TextView
+        android:id="@+id/professorPromptTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="96dp"
+        android:text="@string/professor_prompt"
+        android:textSize="0.25in" />
+
+    <Button
+        android:id="@+id/requestBooksButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/professorPromptTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="81dp"
+        android:text="@string/request_books_button" />
+
+    <Button
+        android:id="@+id/checkStockButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/requestBooksButton"
+        android:layout_below="@+id/requestBooksButton"
+        android:layout_marginTop="54dp"
+        android:text="@string/check_stock_button" />
+
+    <Button
+        android:id="@+id/checkStatusButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/checkStockButton"
+        android:layout_below="@+id/checkStockButton"
+        android:layout_marginTop="52dp"
+        android:text="@string/check_status_button" />
+
+    <Button
+        android:id="@+id/createBookListButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/checkStatusButton"
+        android:layout_below="@+id/checkStatusButton"
+        android:layout_marginTop="52dp"
+        android:text="@string/create_list_button" />
+
+</RelativeLayout>
