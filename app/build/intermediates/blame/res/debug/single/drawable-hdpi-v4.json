@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
         "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/drawable-hdpi/ic_launcher.png"
     }

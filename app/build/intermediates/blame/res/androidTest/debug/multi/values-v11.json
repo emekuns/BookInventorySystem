@@ -1,5 +1,31 @@
 [
     {
+        "outputFile": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/androidTest/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/androidTest/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/androidTest/debug/values-v11/values-v11.xml",
         "map": [
             {

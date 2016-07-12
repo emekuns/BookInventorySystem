@@ -1,145 +1,145 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:2:1-86:12
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:2:1-86:12
 	package
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:3:5-29
-		INJECTED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:22.2.1] /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:8:9-35
-		INJECTED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:11:5-84:19
-MERGED from [com.android.support:support-v4:22.2.1] /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:11:5-84:19
+MERGED from [com.android.support:support-v4:22.2.1] /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:14:9-41
 	android:allowBackup
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:13:9-45
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:13:9-45
 	android:theme
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:15:9-40
 activity#comp3350.srsys.presentation.MainActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:16:9-23:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:16:9-23:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:18:13-56
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:17:13-54
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:17:13-54
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:19:13-22:29
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:21:27-74
 activity#comp3350.srsys.presentation.ProfessorActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:24:9-27:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:24:9-27:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:26:13-61
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:26:13-61
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:25:13-59
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:25:13-59
 activity#comp3350.srsys.presentation.RequestBooksActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:28:9-31:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:28:9-31:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:30:13-65
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:30:13-65
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:29:13-62
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:29:13-62
 activity#comp3350.srsys.presentation.CheckStockActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:32:9-35:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:32:9-35:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:34:13-63
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:34:13-63
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:33:13-60
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:33:13-60
 activity#comp3350.srsys.presentation.CheckStatusActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:36:9-39:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:36:9-39:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:38:13-64
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:38:13-64
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:37:13-61
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:37:13-61
 activity#comp3350.srsys.presentation.CreateBookListActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:40:9-43:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:40:9-43:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:42:13-68
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:42:13-68
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:41:13-64
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:41:13-64
 activity#comp3350.srsys.presentation.EmployeeActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:44:9-47:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:44:9-47:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:46:13-60
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:46:13-60
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:45:13-58
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:45:13-58
 activity#comp3350.srsys.presentation.UpdateInventoryActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:48:9-51:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:48:9-51:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:50:13-68
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:50:13-68
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:49:13-65
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:49:13-65
 activity#comp3350.srsys.presentation.OrderActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:52:9-55:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:52:9-55:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:54:13-57
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:54:13-57
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:53:13-55
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:53:13-55
 activity#comp3350.srsys.presentation.CheckOrderStatusActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:56:9-59:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:56:9-59:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:58:13-70
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:58:13-70
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:57:13-66
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:57:13-66
 activity#comp3350.srsys.presentation.CheckMessageActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:60:9-63:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:60:9-63:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:62:13-65
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:62:13-65
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:61:13-62
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:61:13-62
 activity#comp3350.srsys.presentation.StudentActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:64:9-67:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:64:9-67:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:66:13-59
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:66:13-59
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:65:13-57
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:65:13-57
 activity#comp3350.srsys.presentation.BrowseInventoryActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:68:9-71:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:68:9-71:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:70:13-68
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:70:13-68
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:69:13-65
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:69:13-65
 activity#comp3350.srsys.presentation.PreviewBooksActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:72:9-75:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:72:9-75:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:74:13-65
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:74:13-65
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:73:13-62
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:73:13-62
 activity#comp3350.srsys.presentation.CourseListActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:76:9-79:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:76:9-79:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:78:13-63
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:78:13-63
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:77:13-60
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:77:13-60
 activity#comp3350.srsys.presentation.AskQuestionsActivity
-ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:80:9-83:20
+ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:80:9-83:20
 	android:label
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:82:13-65
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:82:13-65
 	android:name
-		ADDED from /Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/AndroidManifest.xml:81:13-62
+		ADDED from /Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/AndroidManifest.xml:81:13-62

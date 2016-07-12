@@ -4,32 +4,44 @@
         "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_employee.xml"
     },
     {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_check_message.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_check_message.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_check_status.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_check_status.xml"
+    },
+    {
         "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_preview_books.xml",
         "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_preview_books.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_ask_questions.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_ask_questions.xml"
     },
     {
         "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_create_book_list.xml",
         "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_create_book_list.xml"
     },
     {
-        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_check_stock.xml",
-        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_check_stock.xml"
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_professor.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_professor.xml"
     },
     {
         "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_check_status.xml",
         "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_check_status.xml"
     },
     {
-        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_order.xml",
-        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_order.xml"
-    },
-    {
         "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_professor.xml",
-        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_professor.xml"
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_order.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_order.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_check_stock.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_check_stock.xml"
     },
     {
         "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_request_books.xml",
@@ -48,16 +60,68 @@
         "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_browse_inventory.xml"
     },
     {
-        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_check_message.xml",
-        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_check_message.xml"
-    },
-    {
         "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_course_list.xml",
         "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_course_list.xml"
     },
     {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_request_books.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_request_books.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_preview_books.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_preview_books.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_check_order_status.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_check_order_status.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_check_stock.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_check_stock.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_browse_inventory.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_browse_inventory.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_create_book_list.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_create_book_list.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_student.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_student.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_employee.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_employee.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_update_inventory.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_update_inventory.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_professor.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_professor.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_course_list.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_course_list.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_check_message.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_check_message.xml"
+    },
+    {
         "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_student.xml",
         "source": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/src/main/res/layout/activity_student.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/build/intermediates/res/merged/debug/layout/activity_order.xml",
+        "source": "/Users/nequit/Dropbox/projects/hub/BookInventorySystem/app/src/main/res/layout/activity_order.xml"
     },
     {
         "merged": "/Users/nequit/Dropbox/projects/apps/Android/bookInventorySystem1/app/build/intermediates/res/merged/debug/layout/activity_check_order_status.xml",
